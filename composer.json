@@ -1,5 +1,5 @@
 {
-  "name": "kunstmaan/google-api",
+  "name": "kunstmaan/google-places-api",
   "type": "library",
   "description": "Kunstmaan Google API is an SDK for google apis",
   "license": "MIT",
